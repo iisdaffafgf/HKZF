@@ -1,0 +1,30 @@
+.login_root form{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 50px 30px 20px 30px;
+    height: 300px;
+}
+.login_root form>div{
+    height: 50px;
+}
+.login_root form input{
+    outline: none;
+    border: none;
+    width: 100%;
+    border-bottom:1px solid #CCC;
+    height: 30px;
+}
+.login_root form button{
+    outline: none;
+    background-color: #00A16C;
+    border: none;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #FFF;
+    text-align: center;
+}
+.input_tips{
+    color: #F00;
+}

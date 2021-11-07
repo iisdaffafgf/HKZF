@@ -1,0 +1,45 @@
+.release_root{
+    padding-top: 45px;
+    padding-bottom: 50px;
+}
+.release_title{
+    font-size: 18px ;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 15px;
+    background-color: #F6F5F6;
+    color: #0D9B88;
+    
+}
+.rent_house_title{
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 50px;
+    text-align: center;
+}
+.release_bottom_bar{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    z-index: 99;
+    bottom: 0;
+    border-top: 1px solid #CCC;
+}
+.release_bottom_bar li{
+    flex: 1;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.release_bottom_bar .cancel{
+    background-color: #fff;
+    color: #0D9B88;
+}
+.release_bottom_bar .confirm{
+    background-color: #0D9B88;
+    color: #FFF;
+}

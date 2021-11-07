@@ -1,0 +1,28 @@
+.filter_picker{
+    width: 100%;
+    position: fixed;
+    top: 80px;
+    background-color: #fff;
+    z-index: 9;
+}
+.filter_picker_btn{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+}
+.filter_picker_btn button{
+    border: none;
+    outline: none;
+    width: 45%;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.filter_picker_btn .cancel{
+    border: 1px solid #0D9B88;
+    color: #0D9B88;
+}
+.filter_picker_btn .confirm{
+    background-color: #0D9B88;
+    color: #FFF;
+}

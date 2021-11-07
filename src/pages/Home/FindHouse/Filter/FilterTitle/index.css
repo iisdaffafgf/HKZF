@@ -1,0 +1,29 @@
+.filter_title{
+    position: absolute;
+    background-color: #fff;
+    z-index: 99;
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+    width: 100%;
+    border-bottom:1px solid #CCC;
+}
+.filter_title .filter_item .icon-arrow{
+    font-size: 12px;
+    color: #888;
+}
+.filter_item{
+    width: 25%;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+}
+.filter_item_selected{
+    color: #0D9B88;
+    font-weight: bold;
+}
+.filter_item span{
+    padding: 0 5px;
+}

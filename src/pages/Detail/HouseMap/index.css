@@ -1,0 +1,11 @@
+#house_map{
+    height: 200px;
+}
+.house_map_title{
+    height: 30px;
+    line-height: 30px;
+    padding-left: 5px;
+    background-color: #F6F5F6;
+    color: #078F71;
+    font-size: 18px;
+}

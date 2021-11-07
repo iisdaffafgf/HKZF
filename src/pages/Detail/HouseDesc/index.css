@@ -1,0 +1,41 @@
+.house_desc_root{
+    padding: 10px 5px;
+}
+.landlord{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    margin: 20px 5px;
+}
+.landlord_info{
+    display: flex;
+}
+.landlord_info>img{
+    width: 50px;
+}
+.landlord_name{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #F00;
+    font-size: 18px;
+}
+.glod_certification{
+    color: #C5B90A;
+    font-size: 14px;
+}
+.send_message{
+    width: 70px;
+    height: 30px;
+    border: 1px solid #078F71;
+    color: #078F71;
+    border-radius: 5px;
+    background-color: #fff;
+    outline: none;
+    margin-right: 50px;
+}
+.house_desc_text{
+    font-size: 16px;
+}

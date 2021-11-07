@@ -1,0 +1,17 @@
+.find_house_nav_bar{
+    height: 40px;
+    padding: 8px 5px;
+    background-color: #eee;
+    margin: 0;
+    width: 100%;
+}
+.find_house_nav_bar .icon-back{
+    color: rgb(33,185,113);
+    font-size: 14px;
+    line-height: 32px;
+    padding-right:10px;
+}
+.find_house_nav_bar .icon-map{
+    color:rgb(33,185,113);
+    font-size: 24px;
+}

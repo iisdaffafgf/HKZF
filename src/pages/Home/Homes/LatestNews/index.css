@@ -1,0 +1,26 @@
+.latest_news{
+    padding: 0 10px;
+}
+.latest_news>h3{
+    line-height: 40px;
+    font-size: 15px;
+}
+.latest_news .news_item{
+    padding: 10px 0;
+    display: flex;
+    border-bottom: 1px solid #CCC;
+}
+.latest_news .news_item img{
+    width: 120px;
+    border-radius: 5px;
+}
+.latest_news .news_item .news_info{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.latest_news .news_item .news_info div{
+    display: flex;
+    justify-content: space-between;
+}

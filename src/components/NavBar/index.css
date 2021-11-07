@@ -1,0 +1,15 @@
+.city_list_nav{
+    display: flex;
+    background-color: rgb(246,245,246);
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    font-size: 18px;
+}
+.center_content{
+    flex: 1;
+}
+.booth_sides{
+    height: 100%;
+    width: 50px;
+}

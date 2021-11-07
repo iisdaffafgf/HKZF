@@ -1,0 +1,44 @@
+.search_input{
+    height: 50px;
+    background-color: #EFEFF4;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.search_input input{
+    border: none;
+    outline: none;
+    background-color: #fff;
+    height: 30px;
+    width: 85%;
+    text-align: center;
+}
+.search_input .cancel{
+    color: #109AEC;
+    font-size: 18px;
+}
+.not_found_search{
+    margin-top: 80px;
+    text-align: center;
+}
+.not_found_search img{
+    width: 120px;
+    margin-bottom: 30px;
+}
+.not_found_search p{
+    color: #04857F;
+    font-size: 16px;
+}
+.search_result_item{
+    color: #04857F;
+    font-size: 18px;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 5px;
+    border-bottom: 1px solid #04857F;
+    margin: 0 5px;
+}
+.search_result_item span{
+    color: red;
+    font-size: 14px;
+}

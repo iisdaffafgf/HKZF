@@ -1,0 +1,11 @@
+.city_list_title,.city_list_content{
+    padding-left: 10px;
+    height: 50px;
+    line-height: 50px;
+}
+.city_list_title{
+    color: rgb(33,200,150);
+}
+.city_list_content{
+    border-bottom: 1px solid rgb(225,225,225);
+}

@@ -1,0 +1,23 @@
+.house_config_root{
+    padding: 10px;
+    border-bottom: 10px solid #F6F5F6;
+}
+.house_config_root h3{
+    color: #AA368D;
+    padding: 5px 0;
+}
+.house_config_item{
+    text-align: center;
+    width: 70px;
+}
+.house_config_item .iconfont{
+    font-size: 20px;
+}
+.house_config{
+    display: flex;
+    flex-wrap: wrap;
+}
+.active_config{
+    color: #239B88;
+    font-weight: bold;
+}

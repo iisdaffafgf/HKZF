@@ -1,0 +1,31 @@
+.home_top_nav{
+    display: flex;
+    align-items: center;
+    width: calc(100% - 20px);
+    margin: 0 10px;
+    height: 30px;
+    line-height: 30px;
+}
+.home_address_search{
+    display: flex;
+    flex: 1;
+    background-color: #fff;
+    border-radius: 5px;
+    margin:0 5px;
+    padding: 0 5px;
+}
+.home_address .icon-arrow{
+    font-size: 12px;
+}
+.home_search{
+    color: #888;
+}
+.home_search .icon-seach{
+    font-size: 12px;
+    padding: 0 8px 0 15px;
+    margin-left: 10px;
+    border-left: 1px solid #CCC;
+}
+.home_top_nav .icon-map{
+    color: #FFF;
+}

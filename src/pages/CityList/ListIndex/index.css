@@ -1,0 +1,26 @@
+.city_list_index{
+    position: absolute;
+    right: 5px;
+    margin-top: 5px;
+}
+.city_list_index_item{
+    text-align: center;
+    height: 28px;
+}
+.city_list_index_item span{
+    display: block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: calc();
+}
+.active_index{
+    background-color: rgb(33,200,150);
+    border-radius: 50%;
+    color: #FFF;
+}
+.current_city{
+    background-color: #F00;
+    border-radius: 50%;
+    color: #FFF;
+}

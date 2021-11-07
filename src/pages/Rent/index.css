@@ -1,0 +1,28 @@
+.rent_root .not_found_house{
+    margin-top: 80px;
+    text-align: center;
+}
+.rent_root .not_found_house img{
+    width: 120px;
+}
+.rent_root .not_found_house p{
+    margin-top: 50px;
+    font-size: 16px;
+    line-height: 20px;
+}
+.rent_root .not_found_house p span{
+    color: #00A16C;
+    font-weight: bold;
+    text-decoration: underline 2px ;
+}
+.add_rent_new{
+    width: 80%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border:1px solid #078F71;
+    color: #078F71;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 20px auto;
+}

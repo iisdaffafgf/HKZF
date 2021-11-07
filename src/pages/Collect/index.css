@@ -1,0 +1,17 @@
+.my_collect_root .not_found_collect{
+    margin-top:80px;
+    text-align: center;
+}
+.my_collect_root .not_found_collect img{
+    width: 120px;
+}
+.my_collect_root .not_found_collect p{
+    margin-top: 50px;
+    font-size: 16px;
+    line-height: 20px;
+}
+.my_collect_root .not_found_collect p span{
+    color: #00A16C;
+    font-weight: bold;
+    text-decoration: underline 2px ;
+}

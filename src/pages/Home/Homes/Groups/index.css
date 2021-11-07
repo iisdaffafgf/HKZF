@@ -1,0 +1,37 @@
+.groups_root{
+    background-color: rgb(246,245,246);
+    padding: 0 10px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    line-height: 40px;
+}
+.title div{
+    font-size: 18px;
+}
+.title span{
+    font-size: 14px;
+}
+
+.groups{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.groups .groups_item{
+    width: 48%;
+    height: 75px;
+    background-color: #fff;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.groups .groups_item .group_title p{
+    color: #888;
+}
+.groups .groups_item .group_img img{
+    width: 50px;
+}
